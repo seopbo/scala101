@@ -1,3 +1,5 @@
+package EX_2
+
 object EX_2_2 {
   def main(args: Array[String]): Unit = {
     var a: Int = 5

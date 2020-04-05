@@ -1,3 +1,5 @@
+package EX_2
+
 object EX_2_1 {
   def main(args: Array[String]): Unit = {
     var a = "변수입니다."

@@ -1,3 +1,5 @@
+package EX_2
+
 object EX_2_3 {
   type Name = String
   type Person = (String, Int)
