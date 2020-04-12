@@ -5,5 +5,4 @@ object EX_3_8 {
     for (x <- 1 until 5 ; y <- 1 until 5)
       println(x + " * " + y + " = " + x * y)
   }
-
 }

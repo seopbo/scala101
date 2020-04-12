@@ -6,8 +6,6 @@ object EX_2_3 {
   type FType = String => Int
 
   def main(args: Array[String]): Unit = {
-
-
     val name: Name = "임말자"
     println(name)
     val person: Person = ("김동옥", 24)
