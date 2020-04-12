@@ -1,5 +1,9 @@
 package EX_2
 
+/*
+  type 예약어를 이용해 자료형을 별칭화하기
+*/
+
 object EX_2_3 {
   type Name = String
   type Person = (String, Int)

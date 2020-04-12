@@ -1,7 +1,11 @@
 package EX_3
 
+/*
+  while 루프
+*/
+
 object EX_3_5 {
-  def main (args: Array[String]): Unit = {
+  def main(args: Array[String]): Unit = {
     var a = 0
 
     while (a < 20) {

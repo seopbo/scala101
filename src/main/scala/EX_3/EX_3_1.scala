@@ -1,5 +1,9 @@
 package EX_3
 
+/*
+  if / else if / else 구현
+*/
+
 object EX_3_1 {
   def main(args: Array[String]): Unit = {
     var x = 20

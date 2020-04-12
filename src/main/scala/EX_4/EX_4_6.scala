@@ -5,7 +5,7 @@ package EX_4
  */
 
 object EX_4_6 {
-  def main (args: Array[String]): Unit = {
+  def main(args: Array[String]): Unit = {
     val pig = new Animal2
     pig.eat
   }
