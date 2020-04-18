@@ -8,7 +8,7 @@ package EX_5
 object EX_5_6_3 {
   def main(args: Array[String]): Unit = {
     val g = f
-    println(f(1))
+    println(g(1))
   }
 
   def f = (i: Int) => i
